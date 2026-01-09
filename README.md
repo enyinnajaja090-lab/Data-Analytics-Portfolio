@@ -4,6 +4,7 @@ Hello, my name is Jaja, I am a data analyst by profession
 ##Skills
 Data visualisation - Power BI, Excel, SQL, Python
 ![image](Health project.pbix)
+i built dashbord and reporting visuals that make stakeholder to make quick and faster decision
 
 ##Projects
 Hospital Amission Project
